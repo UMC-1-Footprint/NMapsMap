@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NMapsMap",
-            url: "https://github.com/UMC-1-Footprint/NMapsMap/releases/download/Latest/NMapsMap.framework.zip",
+            url: "https://github.com/UMC-1-Footprint/NMapsMap/releases/download/Latest/NMapsMap.xcframework.zip",
             checksum: "efa36d05b32ec32eef6e26047d3830ace3906cd07e62a848ca9db59f02f0a2e4"
         ),
     ]
